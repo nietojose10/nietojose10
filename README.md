@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **my own company**
 
-- 👨‍💻 All of my projects are available at [www.nietojose.com](www.nietojose.com)
+- 👨‍💻 All of my projects are available at [nietojose](https://www.nietojose.com)
 
 - 💬 Ask me about **React and Oracle APEX**
 
