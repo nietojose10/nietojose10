@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jose Nieto</h1>
-<h3 align="center">Software engineer with 13 years in this field of study, 4 years of work experience in the telecommunications industry, and 1 year as a freelancer. I have worked on more than 60 professional software development projects. I have participated in many development integrations and supported entry-level developers in code reviewing and APP releases. Capable of delivering software with a high level of quality.</h3>
+<h3 align="center">Software engineer with 13 years of programming experience, open to contribute to open-source projects.</h3>
 
 - 🔭 I’m currently working on **my own company**
 
