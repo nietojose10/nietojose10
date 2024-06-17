@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jose Nieto</h1>
 <h3 align="center">Software engineer with 13 years of programming experience, open to contribute to open-source projects.</h3>
 
-- 🔭 I’m currently working on **my own company**
+- 🔭 I’m currently working on **my own project**
 
 - 👨‍💻 All of my projects are available at [nietojose](https://www.nietojose.com)
 
